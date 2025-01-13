@@ -169,16 +169,3 @@ Contributions are welcome! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
-## License
-
-[Choose appropriate license]
-
-## Author
-
-[Your Name]
-
-## Acknowledgments
-
-- OpenAI for GPT-4 API
-- [Other acknowledgments]
